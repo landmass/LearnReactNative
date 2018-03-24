@@ -1,0 +1,36 @@
+一、安装组件
+    1、react-navigation, 导航组件
+        #安装教程
+        https://github.com/react-community/react-navigation
+        #安装方法
+        npm install --save react-navigation
+    2、react-native-splash-screen, 导航组件
+        #安装教程
+        https://github.com/crazycodeboy/react-native-splash-screen
+        #安装方法
+        npm i react-native-splash-screen --save
+        react-native link react-native-splash-screen
+        react-native run-android
+    3、redux, 状态管理
+        a、 安装教程
+        https://github.com/reactjs/react-redux
+        #安装方法
+        npm install --save react-redux
+        b、 安装教程
+        https://github.com/reactjs/redux
+        #安装方法
+        npm install --save redux
+        c、 安装教程
+        https://github.com/evgenyrodionov/redux-logger
+        #安装方法
+        npm i --save redux-logger
+        d、 安装教程
+        https://github.com/gaearon/redux-thunk
+        #安装方法
+        npm install --save redux-thunk
+        e、 安装教程
+        https://github.com/react-navigation/react-navigation-redux-helpers
+        #安装方法
+        yarn add react-navigation-redux-helpers
+        or
+        npm install --save react-navigation-redux-helpers
